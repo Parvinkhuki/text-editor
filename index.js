@@ -32,3 +32,4 @@ textCenter.addEventListener('click',function(){
 textJustify.addEventListener('click',function(){
     texts.style.textAlign="justify"
 } )
+
